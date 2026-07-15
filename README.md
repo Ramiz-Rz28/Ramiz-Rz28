@@ -5,8 +5,8 @@
 Building full-stack apps and automations, using AI tools as part
 of my day-to-day workflow rather than an afterthought.
 
-🔭 Currently building: Path O.S — AI-powered career platform
-(Next.js, TypeScript, Claude API)
+🔭 Currently building: Cancify — a subscription tracker that
+flags renewals before they hit (Next.js, TypeScript, full-stack)
 
 🛠️ Also work on: workflow automations, hardware/IoT projects
 
