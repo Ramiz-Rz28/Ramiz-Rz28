@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ramiz
 
-### Full-Stack Developer | AI-Assisted Development
+### Senior DevOps Developer | AI-Assisted Full stack Development
 
 Building full-stack apps and automations, using AI tools as part
 of my day-to-day workflow rather than an afterthought.
