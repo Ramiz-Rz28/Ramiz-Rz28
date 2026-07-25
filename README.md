@@ -4,9 +4,9 @@
 
 Building and automating cloud infrastructure, with AI tools
 (Cursor, Claude, Codex) built into my day-to-day engineering
-workflow — not just used occasionally.
+workflow - not just used occasionally.
 
-🔭 Currently building: Cancify — a subscription tracker app
+🔭 Currently building: Cancify - a subscription tracker app
 (Next.js, TypeScript, full-stack) with production-style
 infrastructure and CI/CD
 
